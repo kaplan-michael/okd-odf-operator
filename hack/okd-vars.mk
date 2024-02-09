@@ -36,4 +36,4 @@ ODF_CONSOLE_IMG_LOCATION ?= quay.io/ocs-dev
 ODF_CONSOLE_IMG ?= $(ODF_CONSOLE_IMG_LOCATION)/$(ODF_CONSOLE_IMG_NAME):$(ODF_CONSOLE_IMG_TAG)
 
 # kube rbac proxy image variable
-OSE_KUBE_RBAC_PROXY_IMG = quay.io/openshift/origin-kube-rbac-proxy:4.14
+OSE_KUBE_RBAC_PROXY_IMG = quay.io/openshift/origin-kube-rbac-proxy:4.15

@@ -11,5 +11,5 @@ configurations:
 # replace catalogsource image
 images:
 - name: catalog-img
-  newName: quay.io/ocs-dev/odf-operator-catalog
-  newTag: latest
+  newName: quay.io/origin-odf/odf-operator-catalog
+  newTag: v4.15.0
